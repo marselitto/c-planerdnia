@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("planer_dnia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+783fd6de8eaf815a15fabc5428f80c4532e3c505")]
 [assembly: System.Reflection.AssemblyProductAttribute("planer_dnia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("planer_dnia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
